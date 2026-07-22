@@ -1,4 +1,3 @@
-//This is the code for rock paper scissors game
 #include <iostream>
 #include <random>
 void play(){
@@ -58,7 +57,6 @@ void play(){
 
 
 int main(){
-    //all instructions
     std:: cout <<"***************************************************************************************"<<std::endl;;
     std:: cout << "GAME OF ROCK-PAPER-SCISSORS"<<std::endl;;
     std:: cout << "Press 1 for Rock , Press 2 for Paper , Press 3 for Scissors"<<std::endl;;
